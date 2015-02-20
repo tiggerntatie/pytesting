@@ -9,3 +9,6 @@ def test():
     assert False
   else:
     print("Test Pass!")  
+
+if __name__ == '__main__':
+    test()
