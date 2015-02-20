@@ -2,4 +2,4 @@ def test():
     #assert False
     pass
 
-print("Hello, world.")
+print("Hello, world!")
